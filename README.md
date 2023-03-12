@@ -2,10 +2,10 @@
 
 
 
-![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Z390M_GAMING?include_prereleases)
-![release](https://img.shields.io/github/release-date/Gilberto-Mascena/Z390M_GAMING)
-![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Z390M_GAMING)
-![license](https://img.shields.io/github/license/Gilberto-Mascena/Z390M_GAMING)
+![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Z390-DESIGNARE?include_prereleases)
+![release](https://img.shields.io/github/release-date/Gilberto-Mascena/Z390-DESIGNARE)
+![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Z390-DESIGNARE)
+![license](https://img.shields.io/github/license/Gilberto-Mascena/Z390-DESIGNARE)
 
 ## *Sistema Operacional*
 
@@ -15,27 +15,37 @@
 :---:|:---
 
 
+## *Setup*
+
+*Config* | *Desktop*
+:---:|:---
+
+Fonte | CORSAIR - 650W
+Placa Mãe | Gigabyte Z390 DESIGNARE
+CPU | Core I7 9700K
+Water Cooler | CORSAIR 120
+NVME M.2 | XPG GAMMIX S41 512GB 
+GPU | RX 580 8G MSI
+Memória ram | G.SKILL 2x16GB total 32GB
+
+
+
 ## *O que funciona*
 
--[x] Áudio.
--[x] LAN (ambas as portas de rede).
--[] WI-FI (Não implementado, testes serão feitos).
--[] Bluetooth (Não implementado, testes serão feitos).
--[x] USB.
--[x] Thunderbolt (Sem suporte a hot/swap, testes serão feitos via ACPI).
--[x] Sleep.
-
+- [x] Áudio.
+- [x] LAN (ambas as portas de rede).
+- [ ] WI-FI (Não implementado, testes serão feitos).
+- [ ] Bluetooth (Não implementado, testes serão feitos).
+- [x] USB.
+- [x] Thunderbolt (Sem suporte a hot/swap, testes serão feitos via ACPI).
+- [x] Sleep.
 
 
 ## *Captura de telas*
 
-![Sobre_Este_Mac](https://user-images.githubusercontent.com/103699861/211068915-4c3cad37-ddf3-478b-bbff-18db80fee956.png)
-![Sobre](https://user-images.githubusercontent.com/103699861/211068963-7337e637-db69-41bb-a7e4-3e11ff33e374.png)
-![Hackintool_Peripherals](https://user-images.githubusercontent.com/103699861/211069054-801c45ef-5ae4-4f47-bcf2-be6b2d775632.png)
-![Hackintool_PCIe](https://user-images.githubusercontent.com/103699861/211069091-0312b533-8e6d-4bf9-9d1d-615907c8f256.png)
-![USB_Ports](https://user-images.githubusercontent.com/103699861/211069110-4ebffbf0-49d4-42aa-90a3-91ef3203a4e2.png)
-![Hackintool_kexts](https://user-images.githubusercontent.com/103699861/211069119-367064ca-8298-4ec9-be3e-1875911c432b.png)
-
+![Sobre este Mac](https://user-images.githubusercontent.com/103699861/224518072-d115c920-6d60-47d0-9b29-0546f30a0c4a.jpeg)
+![Bios](https://user-images.githubusercontent.com/103699861/224518058-c112eb26-b68c-4b72-b694-e1a4b0f1d8b4.jpeg)
+![Mapeamento USB](https://user-images.githubusercontent.com/103699861/224518064-0c7ed570-1ea8-41be-a673-440d6243ebc2.jpeg)
 
 
 ## *Agradecimentos*
@@ -45,6 +55,7 @@
 - [*CrisHotpatch*](https://t.me/crishotpatch)
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
+- [*CorpNewt*](https://github.com/corpnewt)
 
 ## *Licença* 
 
