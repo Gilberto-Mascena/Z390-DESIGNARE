@@ -19,7 +19,6 @@
 
 *Config* | *Desktop*
 :---:|:---
-
 Fonte | CORSAIR - 650W
 Placa Mãe | Gigabyte Z390 DESIGNARE
 CPU | Core I7 9700K
