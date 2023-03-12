@@ -58,6 +58,6 @@ Memória ram | G.SKILL 2x16GB total 32GB
 
 ## *Licença* 
 
-*The* [*MIT License*](https://github.com/Gilberto-Mascena/Hack-Studio/blob/main/LICENSE.md) (*MIT*)
+*The* [*MIT License*](https://github.com/Gilberto-Mascena/Z390-DESIGNARE/blob/main/LICENSE.md) (*MIT*)
 
 *Copyright :copyright: 2023* 
