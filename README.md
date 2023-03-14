@@ -19,8 +19,8 @@
 
 *Config* | *Desktop*
 :---:|:---
+Placa Mãe | [*Gigabyte Z390 DESIGNARE*](https://www.gigabyte.com/br/Motherboard/Z390-DESIGNARE-rev-10#kf)
 Fonte | CORSAIR - 650W
-Placa Mãe | Gigabyte Z390 DESIGNARE
 CPU | Core I7 9700K
 Water Cooler | CORSAIR 120
 NVME M.2 | XPG GAMMIX S41 512GB 
