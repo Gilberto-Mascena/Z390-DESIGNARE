@@ -1,10 +1,4 @@
-._EFI
-._.contentFlavour
-._.contentVisibility
-._.DS_Store
-.DS_Store
-._.gitignore
-._LICENSE.md
-._README.md
-._Sobre este Mac.jpeg
-
+**/._*
+**/._.*
+**/.DS_Store
+**/.vscode
