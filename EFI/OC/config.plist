@@ -4,7 +4,7 @@
 <dict>
 	<key># Z390-Designare</key>
 	<string></string>
-	<key># OC-0.9.1 Release</key>
+	<key># OC-0.9.2 Release</key>
 	<string></string>
 	<key># By Gilberto Mascena</key>
 	<string></string>
@@ -898,6 +898,8 @@
 			<false/>
 			<key>DisableIoMapper</key>
 			<true/>
+			<key>DisableIoMapperMapping</key>
+			<false/>
 			<key>DisableLinkeditJettison</key>
 			<true/>
 			<key>DisableRtcChecksum</key>
@@ -1348,6 +1350,8 @@
 			<string>Disabled</string>
 			<key>IgnoreTextInGraphics</key>
 			<false/>
+			<key>InitialMode</key>
+			<string>Auto</string>
 			<key>ProvideConsoleGop</key>
 			<true/>
 			<key>ReconnectGraphicsOnConnect</key>
