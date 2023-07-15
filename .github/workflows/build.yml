@@ -1,8 +1,5 @@
 on:  
-  push:
-    branches:
-      - "main"
-      - "master"
+  push:    
     tags:
       - 'v*' 
 
@@ -14,7 +11,7 @@ jobs:
     runs-on: macos-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
