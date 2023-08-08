@@ -20,24 +20,24 @@
 
 *Config* | *Desktop*
 :---:|:---
-Placa Mãe | [*Gigabyte Z390 DESIGNARE*](https://www.gigabyte.com/br/Motherboard/Z390-DESIGNARE-rev-10#kf)
-Fonte | CORSAIR - 650W
-CPU | Core I7 9700K
-Water Cooler | CORSAIR 120
-NVME M.2 | XPG GAMMIX S41 512GB 
-GPU | RX 580 8G MSI
-Memória ram | G.SKILL 2x16GB total 32GB
+*Placa Mãe* | [*Gigabyte Z390 DESIGNARE*](https://www.gigabyte.com/br/Motherboard/Z390-DESIGNARE-rev-10#kf)
+*Fonte* | *CORSAIR - 650W*
+*CPU* | *Core I7 9700K*
+*Water Cooler* | *CORSAIR 120*
+*NVME M.2* | *XPG GAMMIX S41 512GB* 
+*GPU* | *RX 580 8G MSI*
+*Memória ram* | *G.SKILL 2x16GB total 32GB*
 ##
 
 ## *O que funciona*
 
-- [x] Áudio.
-- [x] LAN (ambas as portas de rede).
-- [ ] WI-FI (Não implementado, testes serão feitos).
-- [ ] Bluetooth (Não implementado, testes serão feitos).
-- [x] USB.
-- [x] Thunderbolt (Sem suporte a hot/swap, testes serão feitos via ACPI).
-- [x] Sleep.
+- [x] *Áudio.*
+- [x] *Rede (ambas as portas de rede).*
+- [ ] *WI-FI (Não implementado, testes serão feitos).*
+- [ ] *Bluetooth (Não implementado, testes serão feitos).*
+- [x] *USB.*
+- [x] *Thunderbolt (Sem suporte a hot/swap, testes serão feitos via ACPI).*
+- [x] *Sleep.*
 ##
 
 ## *Captura de telas*
