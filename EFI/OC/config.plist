@@ -4,7 +4,7 @@
 <dict>
 	<key># Z390-Designare</key>
 	<string></string>
-	<key># OC-0.9.3 Release</key>
+	<key># OC-0.9.4 Release</key>
 	<string></string>
 	<key># By Gilberto Mascena</key>
 	<string></string>
@@ -957,6 +957,8 @@
 			<false/>
 			<key>HideAuxiliary</key>
 			<true/>
+			<key>InstanceIdentifier</key>
+			<string></string>
 			<key>LauncherOption</key>
 			<string>Disabled</string>
 			<key>LauncherPath</key>
