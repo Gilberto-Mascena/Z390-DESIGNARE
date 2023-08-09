@@ -12,21 +12,29 @@
 
 <img align="right" src="./Imagens/banner.png" alt="Z390 M GAMING" width="330">
 
-*macOS* | *Big Sur 11.7.4*
-:---:|:---
+**macOS** **Big Sur 11.7.4**
+
 ##
 
 ## *Setup*
 
-*Config* | *Desktop*
-:---:|:---
-*Placa Mãe* | [*Gigabyte Z390 DESIGNARE*](https://www.gigabyte.com/br/Motherboard/Z390-DESIGNARE-rev-10#kf)
-*Fonte* | *CORSAIR - 650W*
-*CPU* | *Core I7 9700K*
-*Water Cooler* | *CORSAIR 120*
-*NVME M.2* | *XPG GAMMIX S41 512GB* 
-*GPU* | *RX 580 8G MSI*
-*Memória ram* | *G.SKILL 2x16GB total 32GB*
+
+- _**Placa Mãe**_
+  - [*Gigabyte Z390 DESIGNARE*](https://www.gigabyte.com/br/Motherboard/Z390-DESIGNARE-rev-10#kf)
+- _**Fonte**_
+  - *CORSAIR - 650W*
+- _**CPU**_
+  - *Core I7 9700K*
+- _**Water Cooler**_
+  - *CORSAIR 120*
+- _**NVME M.2**_
+  - *XPG GAMMIX S41 512GB* 
+- _**GPU**_
+  - *RX 580 8G MSI*
+- _**Memória ram**_
+  - *G.SKILL 2x16GB total 32GB*
+- _**Rede**_
+  _*Intel I219-V / I211*_  
 ##
 
 ## *O que funciona*
