@@ -34,7 +34,7 @@
 - _**Memória ram**_
   - *G.SKILL 2x16GB total 32GB*
 - _**Rede**_
-  _*Intel I219-V / I211*_  
+  - *Intel I219-V / I211* 
 ##
 
 ## *O que funciona*
