@@ -34,9 +34,9 @@ _**macOS** **Big Sur 11.7.4**_
 - _**Memória ram**_
   - *G.SKILL 2x16GB total 32GB*
 - _**Rede**_
+  - *Intel I219-V / I211* 
 - _*WI-FI / Bluetooth*_
   - *AC9560*
-  - *Intel I219-V / I211* 
 ##
 
 ## *O que funciona*
