@@ -12,7 +12,7 @@
 
 <img align="right" src="./Imagens/banner.png" alt="Z390 M GAMING" width="330">
 
-**macOS** **Big Sur 11.7.4**
+_**macOS** **Big Sur 11.7.4**_
 
 ##
 
@@ -30,10 +30,12 @@
 - _**NVME M.2**_
   - *XPG GAMMIX S41 512GB* 
 - _**GPU**_
-  - *RX 580 8G MSI*
+  - *RX 580 GAMING X 8G*
 - _**Memória ram**_
   - *G.SKILL 2x16GB total 32GB*
 - _**Rede**_
+- _*WI-FI / Bluetooth*_
+  - *AC9560*
   - *Intel I219-V / I211* 
 ##
 
@@ -53,6 +55,22 @@
 ![Sobre este Mac](./Imagens/about.jpeg)
 ![Bios](./Imagens/Bios.jpeg)
 ![Mapeamento USB](./Imagens/USBPorts.jpeg)
+##
+
+## *Kexts usadas, (todas versões Releases)*
+
+- *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
+- *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
+- *[`VirtualSMC`](https://github.com/acidanthera/VirtualSMC), somente: `VirtualSMC.kext`, `SMCProcessor.kext` e `SMCSuperIO.kext`*
+- *[`CpuTscSync.kext`](https://github.com/acidanthera/CpuTscSync)*
+- *[`AppleALC.kext`](https://github.com/acidanthera/AppleALC)*
+- *`USBMap.kext`*
+- *[`AirportItlwm.kext`](https://github.com/OpenIntelWireless/itlwm/releases)*
+- *[`BlueToolFixup.kext`](https://github.com/acidanthera/BrcmPatchRAM/releases)*
+- *[`IntelBlueToothFirmware.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
+- *[`IntelBTPatcher.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
+- *[`IntelMausi.kext`](https://github.com/acidanthera/IntelMausi)*
+- *[`SmallTreeIntel82576.kext`](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases)*
 ##
 
 ## *Utilização*
