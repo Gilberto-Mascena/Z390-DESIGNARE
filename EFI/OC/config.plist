@@ -4,7 +4,7 @@
 <dict>
 	<key># Z390-Designare</key>
 	<string></string>
-	<key># OC-0.9.4 Release</key>
+	<key># OC-0.9.5 Release</key>
 	<string></string>
 	<key># By Gilberto Mascena</key>
 	<string></string>
@@ -1538,6 +1538,8 @@
 			<key>ResizeGpuBars</key>
 			<integer>-1</integer>
 			<key>ResizeUsePciRbIo</key>
+			<false/>
+			<key>ShimRetainProtocol</key>
 			<false/>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
