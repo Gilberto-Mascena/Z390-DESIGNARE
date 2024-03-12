@@ -4,7 +4,7 @@
 <dict>
 	<key># Z390-Designare</key>
 	<string></string>
-	<key># OC-0.9.8 Release</key>
+	<key># OC-0.9.8.1 Rel</key>
 	<string></string>
 	<key># By Gilberto Mascena</key>
 	<string></string>
@@ -1137,7 +1137,7 @@
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
-			<string>j137</string>
+			<string>Disabled</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
