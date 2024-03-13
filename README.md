@@ -16,7 +16,9 @@ _**macOS** **Big Sur 11.7.4**_
 
 ##
 
-## *Setup*
+-**Setup**_
+
+##
 
 
 - _**Placa Mãe**_
@@ -90,12 +92,13 @@ _**macOS** **Big Sur 11.7.4**_
 
 ## *Agradecimentos*
 
-- [*Acidanthera*](https://github.com/acidanthera)
+- [*Acidanthera Team*](https://github.com/acidanthera)
 - [*CorpNewt*](https://github.com/corpnewt)
 - [*CrisHotpatch*](https://t.me/crishotpatch)
 - [*Dortania*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#starting-point)
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
+- *E outros*
 ##
 
 ## *Licença* 
