@@ -44,11 +44,11 @@ _**Setup**_
 ## *O que funciona*
 
 - [x] *Áudio.*
-- [x] *Rede (ambas as portas de rede).*
-- [x] *WI-FI (Não implementado, testes serão feitos).*
-- [x] *Bluetooth (Não implementado, testes serão feitos).*
+- [x] *Rede (ambas as portas de rede)*
+- [x] *WI-FI*
+- [x] *Bluetooth*
 - [x] *USB.*
-- [x] *Thunderbolt (Sem suporte a hot/swap, testes serão feitos via ACPI).*
+- [x] *Thunderbolt (Sem suporte a hot/swap, testes serão feitos via ACPI)*
 - [x] *Sleep.*
 ##
 
