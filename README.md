@@ -45,8 +45,8 @@ _**Setup**_
 
 - [x] *Áudio.*
 - [x] *Rede (ambas as portas de rede).*
-- [ ] *WI-FI (Não implementado, testes serão feitos).*
-- [ ] *Bluetooth (Não implementado, testes serão feitos).*
+- [x] *WI-FI (Não implementado, testes serão feitos).*
+- [x] *Bluetooth (Não implementado, testes serão feitos).*
 - [x] *USB.*
 - [x] *Thunderbolt (Sem suporte a hot/swap, testes serão feitos via ACPI).*
 - [x] *Sleep.*
