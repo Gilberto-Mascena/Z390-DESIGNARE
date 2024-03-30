@@ -1,4 +1,4 @@
 _**Mudanças nesta Versão**_
 
 - Mudanças nesta release:
-    - _Atualizado OC para 0.9.9_
+    - _Adicionado kext WI-FI Sonoma 14.4_
