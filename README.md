@@ -1,4 +1,4 @@
-# *EFI OC Z390 DESIGNARE macOS Big Sur*
+# *EFI OC Z390 DESIGNARE macOS Sonoma*
 
 
 
