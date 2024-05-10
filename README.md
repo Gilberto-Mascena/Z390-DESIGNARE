@@ -61,7 +61,7 @@ _**Setup**_
 ![Sobre este Mac](./Imagens/about.jpeg)
 ## *Versão de BIOS*
 ![Bios](./Imagens/Bios.jpeg)
-## *Mapeamento das poetas USB*
+## *Mapeamento das portas USB*
 ![Mapeamento USB](./Imagens/USBPorts.jpeg)
 ##
 
