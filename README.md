@@ -8,7 +8,7 @@
 ![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Z390-DESIGNARE?include_prereleases)
 ![release](https://img.shields.io/github/release-date/Gilberto-Mascena/Z390-DESIGNARE)
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Z390-DESIGNARE)
-![license](https://img.shields.io/github/license/Gilberto-Mascena/Z390-DESIGNARE)
+
 ##
 
 ## *Sistema Operacional*
