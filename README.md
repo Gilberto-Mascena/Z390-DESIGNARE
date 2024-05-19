@@ -11,9 +11,9 @@
 
 ##
 
-## *Sistema Operacional*
+## *Operational system*
 
-<img align="right" src="./Imagens/banner.png" alt="Z390 M GAMING" width="330">
+<img align="right" src="./img/banner.png" alt="photo Z390-DESIGNARE" width="330">
 
 _**macOS** **Big Sur 11.7.4**_
 
@@ -24,9 +24,9 @@ _**Setup**_
 ##
 
 
-- _**Placa Mãe**_
+- _**Motherboard**_
   - [*Gigabyte Z390 DESIGNARE*](https://www.gigabyte.com/br/Motherboard/Z390-DESIGNARE-rev-10#kf)
-- _**Fonte**_
+- _**Power supply**_
   - *CORSAIR - 650W*
 - _**CPU**_
   - *Core I7 9700K*
@@ -36,40 +36,40 @@ _**Setup**_
   - *XPG GAMMIX S41 512GB* 
 - _**GPU**_
   - *RX 580 GAMING X 8G*
-- _**Memória ram**_
-  - *G.SKILL 2x16GB total 32GB*
-- _**Rede**_
+- _**Memory**_
+  - *G.SKILL 2x16GB 32GB*
+- _**Network**_
   - *Intel I219-V / I211* 
 - _**WI-FI / Bluetooth**_
   - *AC9560*
 ##
 
-## *O que funciona*
+## *What works*
 
-- [x] *Áudio.*
-- [x] *Rede (ambas as portas de rede)*
+- [x] *Sound*
+- [x] *Network (both network ports)*
 - [x] *WI-FI*
 - [x] *Bluetooth*
-- [x] *USB.*
-- [x] *Thunderbolt (Sem suporte a hot/swap, testes serão feitos via ACPI)*
-- [x] *Sleep.*
+- [x] *USB*
+- [x] *Thunderbolt (No hot/swap support, testing will be done)*
+- [x] *Sleep*
 ##
 
-## *Captura de telas*
+## *Screenshot*
 
-## *Sobre este mac* 
-![Sobre este Mac](./Imagens/about.jpeg)
-## *Versão de BIOS*
-![Bios](./Imagens/Bios.jpeg)
-## *Mapeamento das portas USB*
-![Mapeamento USB](./Imagens/USBPorts.jpeg)
+## *About this mac* 
+![about this mac](./img/about.jpeg)
+## *BIOS version*
+![Bios](./img/Bios.jpeg)
+## *USB port mapping*
+![USB Mapping](./img/USBPorts.jpeg)
 ##
 
-## *Kexts usadas, (todas versões Releases)*
+## *Kexts used, (all Releases)*
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
-- *[`VirtualSMC`](https://github.com/acidanthera/VirtualSMC), somente: `VirtualSMC.kext`, `SMCProcessor.kext` e `SMCSuperIO.kext`*
+- *[`VirtualSMC`](https://github.com/acidanthera/VirtualSMC), only: `VirtualSMC.kext`, `SMCProcessor.kext` e `SMCSuperIO.kext`*
 - *[`CpuTscSync.kext`](https://github.com/acidanthera/CpuTscSync)*
 - *[`AppleALC.kext`](https://github.com/acidanthera/AppleALC)*
 - *`USBMap.kext`*
@@ -81,22 +81,27 @@ _**Setup**_
 - *[`SmallTreeIntel82576.kext`](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases)*
 ##
 
-## *Utilização*
+## *Recommended tools*
 
-*  Recomendação 1
-  * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), para gerar novos seriais para sua SMBIOS afim de evitar conflitos com iServices.*
-* Recomendação 2
-  * *Use [`ProperTree`](https://github.com/corpnewt/ProperTree), para editar sua config.plist.*     
-* Recomendação 3
-   * *Use [`USBMap`](https://github.com/corpnewt/USBMap), para mapear suas portas USB, apartir do OC 0.9.3, pode ser mapeadas com XHCIPortLimit habilitada no config.plist + [`USBInjectAll`](https://github.com/Sniki/OS-X-USB-Inject-All/releases).*
-* Recomendação 4
-  * *Extrair sua DSDT a partir do windows.*
-  * *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), para gera seus patches de SSDT.*    
-* Recomendação 5
-  * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), para compilar seus patches de SSDT.*
+*  Recommendation 1
+  * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), to generate new serials for your SMBIOS in order to avoid conflicts with iServices.*
+* Recommendation 2
+  * *Use [`ProperTree`](https://github.com/corpnewt/ProperTree), to edit your config.plist.*     
+* Recommendation 3
+   * *Use [`USBMap`](https://github.com/corpnewt/USBMap), to map your USB ports, starting from OC 0.9.3, they can be mapped with XHCIPortLimit enabled in config.plist + [`USBInjectAll`](https://github.com/Sniki/OS-X-USB-Inject-All/releases).*
+* Recommendation 4
+  * *Extract your DSDT from windows.*
+  * *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), to generate your SSDT patches.*    
+* Recommendation 5
+  * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), to compile your SSDT patches on mac.*
 ##
 
-## *Agradecimentos*
+## *Intel BIOS Settings*
+
+- [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings)
+##
+
+## *Thanks*
 
 - [*Acidanthera Team*](https://github.com/acidanthera)
 - [*CorpNewt*](https://github.com/corpnewt)
@@ -104,10 +109,10 @@ _**Setup**_
 - [*Dortania*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#starting-point)
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
-- *E outros*
+- *And others*
 ##
 
-## *Licença* 
+## *License* 
 
 *The* [*MIT License*](LICENSE.md) (*MIT*)
 
