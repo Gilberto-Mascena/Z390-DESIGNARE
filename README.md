@@ -69,7 +69,7 @@ _**Setup**_
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
-- *[`VirtualSMC`](https://github.com/acidanthera/VirtualSMC), only: `VirtualSMC.kext`, `SMCProcessor.kext` e `SMCSuperIO.kext`*
+- *[`VirtualSMC`](https://github.com/acidanthera/VirtualSMC), only: `VirtualSMC.kext`, `SMCProcessor.kext` and `SMCSuperIO.kext`*
 - *[`CpuTscSync.kext`](https://github.com/acidanthera/CpuTscSync)*
 - *[`AppleALC.kext`](https://github.com/acidanthera/AppleALC)*
 - *`USBMap.kext`*
