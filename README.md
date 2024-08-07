@@ -9,7 +9,7 @@
 ![release](https://img.shields.io/github/release-date/Gilberto-Mascena/Z390-DESIGNARE)
 ![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Z390-DESIGNARE)
 
-##
+---
 
 ## *Operational system*
 
@@ -17,11 +17,11 @@
 
 _**macOS** **Big Sur 11.7.4**_
 
-##
+---
 
 _**Setup**_
 
-##
+---
 
 
 - _**Motherboard**_
@@ -42,8 +42,22 @@ _**Setup**_
   - *Intel I219-V / I211* 
 - _**WI-FI / Bluetooth**_
   - *AC9560*
-##
 
+---
+
+<a name="ancora"></a>
+## Navigation
+- [*What works*](#ancora1)
+- [*Screenshot*](#ancora2)
+- [*Kexts used, (all Releases)*](#ancora3)
+- [*Recommended tools*](#ancora4)
+- [*Intel BIOS Settings*](#ancora5)
+- [*Thanks*](#ancora6)
+- [*License* ](#ancora7)
+
+---
+
+<a id="ancora1"></a>
 ## *What works*
 
 - [x] *Sound*
@@ -53,8 +67,12 @@ _**Setup**_
 - [x] *USB*
 - [x] *Thunderbolt (No hot/swap support, testing will be done)*
 - [x] *Sleep*
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora2"></a>
 ## *Screenshot*
 
 ## *About this mac* 
@@ -63,8 +81,12 @@ _**Setup**_
 ![Bios](./img/Bios.jpeg)
 ## *USB port mapping*
 ![USB Mapping](./img/USBPorts.jpeg)
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora3"></a>
 ## *Kexts used, (all Releases)*
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
@@ -79,8 +101,12 @@ _**Setup**_
 - *[`IntelBTPatcher.kext`](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases)*
 - *[`IntelMausi.kext`](https://github.com/acidanthera/IntelMausi)*
 - *[`SmallTreeIntel82576.kext`](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases)*
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora4"></a>
 ## *Recommended tools*
 
 *  Recommendation 1
@@ -94,13 +120,21 @@ _**Setup**_
   * *Use [`SSDTTime`](https://github.com/corpnewt/SSDTTime), to generate your SSDT patches.*    
 * Recommendation 5
   * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), to compile your SSDT patches on mac.*
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora5"></a>
 ## *Intel BIOS Settings*
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings)
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora6"></a>
 ## *Thanks*
 
 - [*Acidanthera Team*](https://github.com/acidanthera)
@@ -110,11 +144,18 @@ _**Setup**_
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
 - *And others*
-##
 
+[Top](#ancora)
+
+---
+
+<a id="ancora7"></a>
 ## *License* 
 
 *The* [*MIT License*](LICENSE.md) (*MIT*)
 
 *Copyright :copyright: 2023* 
-##
+
+[Top](#ancora)
+
+---
