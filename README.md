@@ -1,4 +1,4 @@
-# *EFI OC Z390 DESIGNARE macOS Sonoma*
+# *EFI OC Gigabyte Z390 DESIGNARE*
 
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/Z390-DESIGNARE)
@@ -22,9 +22,6 @@ _**macOS** **Big Sur 11.7.4**_
 
 _**Setup**_
 
----
-
-
 - _**Motherboard**_
   - [*Gigabyte Z390 DESIGNARE*](https://www.gigabyte.com/br/Motherboard/Z390-DESIGNARE-rev-10#kf)
 - _**Power supply**_
@@ -36,7 +33,7 @@ _**Setup**_
 - _**NVME M.2**_
   - *XPG GAMMIX S41 512GB* 
 - _**GPU**_
-  - *RX 580 GAMING X 8G*
+  - *MSI RX 580 GAMING X 8G*
 - _**Memory**_
   - *G.SKILL 2x16GB 32GB*
 - _**Network**_
