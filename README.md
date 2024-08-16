@@ -12,11 +12,18 @@
 
 ---
 
-## *Operational system*
+## *Operating systems*
 
 <img align="right" src="./img/banner.png" alt="photo Z390-DESIGNARE" width="330">
 
-_**macOS** **Big Sur 11.7.4**_
+<div>
+<img src="./img/macos-catalina-icon.png" alt="" width="55">
+<img src="./img/macos-big-sur-icon.png" alt="" width="55">
+<img src="./img/macos-monterey-icon.png" alt="" width="55">
+<img src="./img/macos-ventura-icon.png" alt="" width="55">
+<img src="./img/macos-sonoma-icon.png" alt="" width="55">
+
+</div>
 
 ---
 
