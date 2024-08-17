@@ -35,7 +35,7 @@ _**Setup**_
 - _**NVME M.2**_
   - *XPG GAMMIX S41 512GB* 
 - _**GPU**_
-  - *RADEON RX 580 GAMING X 8G MSI*
+  - *RADEON RX 580 GAMING X 8GB MSI*
 - _**Memory**_
   - *G.SKILL 2x16GB 32GB*
 - _**Network**_
