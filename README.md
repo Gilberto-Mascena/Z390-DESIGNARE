@@ -46,7 +46,7 @@ _**Setup**_
 ---
 
 <a name="ancora"></a>
-## Topic navigation
+## _Topic navigation_
 - [*What works*](#ancora1)
 - [*Screenshot*](#ancora2)
 - [*Kexts used, (all Releases)*](#ancora3)
