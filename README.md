@@ -28,6 +28,8 @@ _**Setup**_
 
 - _**Motherboard**_
   - [*Gigabyte Z390 DESIGNARE*](https://www.gigabyte.com/br/Motherboard/Z390-DESIGNARE-rev-10#kf)
+- _**Bios version**_
+  - *F7*
 - _**Power supply**_
   - *CORSAIR - 650W*
 - _**CPU**_
