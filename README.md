@@ -15,7 +15,7 @@
 ## *Operating systems*
 
 <div align="left">
-  <img src="./img/macos-full.png" alt="macos icons" width="400">
+  <img src="./img/macos-full.png" alt="macos icons">
 </div>
 
 <div>
