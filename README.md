@@ -14,10 +14,12 @@
 
 ## *Operating systems*
 
-<img align="right" src="./img/banner.png" alt="photo Z390-DESIGNARE" width="330">
+<div align="left">
+  <img src="./img/macos-full.png" alt="macos icons" width="400">
+</div>
 
 <div>
-  <img src="./img/macos-full.png" alt="macos icons" width="400">
+  <img align="right" src="./img/banner.png" alt="photo Z390-DESIGNARE" width="330">
 </div>
 
 ---
