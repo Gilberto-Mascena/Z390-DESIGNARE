@@ -77,7 +77,7 @@ _**Setup**_
 ---
 
 <a id="ancora2"></a>
-## *Screenshot*
+## Screenshots
 
 ## *About this mac* 
 ![about this mac](./img/about.jpeg)
