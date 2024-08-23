@@ -68,7 +68,8 @@ _**Setup**_
 ---
 
 <a id="ancora1"></a>
-## *What works*
+
+<details><summary><h2>What works</h2></summary>
 
 - [x] *Sound*
 - [x] *Network (both network ports)*
@@ -79,25 +80,29 @@ _**Setup**_
 - [x] *Sleep*
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora2"></a>
 ## Screenshots
 
 ## *About this mac* 
 ![about this mac](./img/about.jpeg)
-## *BIOS version*
+
+<details><summary><h2>BIOS version</h2></summary>
+
 ![Bios](./img/Bios.jpeg)
-## *USB port mapping*
+</details>
+
+<details><summary><h2>USB port mapping</h2></summary>
+
 ![USB Mapping](./img/USBPorts.jpeg)
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora3"></a>
-## *Kexts used, (all Releases)*
+
+<details><summary><h2>Kexts used, (all Releases)</h2></summary>
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
@@ -113,11 +118,11 @@ _**Setup**_
 - *[`SmallTreeIntel82576.kext`](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases)*
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora4"></a>
-## *Recommended tools*
+
+<details><summary><h2>Recommended tools</h2></summary>
 
 *  Recommendation 1
   * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), to generate new serials for your SMBIOS in order to avoid conflicts with iServices.*
@@ -132,17 +137,16 @@ _**Setup**_
   * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), to compile your SSDT patches on mac.*
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora5"></a>
-## *Intel BIOS Settings*
+
+<details><summary><h2>Intel BIOS Settings</h2></summary>
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings)
 
 [Top](#ancora)
-
----
+</details>
 
 <a id="ancora6"></a>
 ## *Thanks*
