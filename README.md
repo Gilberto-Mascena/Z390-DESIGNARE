@@ -46,14 +46,14 @@ _**Setup**_
 ##
 - _**Memory**_
   - *G.SKILL 2x16GB 32GB*
-- _**Network**_
-  - *Intel I219-V / I211* 
 - _**WI-FI / Bluetooth**_
   - *AC9560*
 > [!NOTE]
 > _For more information on compatible Intel WiFi cards, see: [OpenIntelWireless](https://openintelwireless.github.io/itlwm/Compat)_
 
 ##
+- _**Network**_
+  - *Intel I219-V / I211* 
 
 <a name="ancora"></a>
 ## _Topic navigation_
