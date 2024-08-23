@@ -40,6 +40,10 @@ _**Setup**_
   - *XPG GAMMIX S41 512GB* 
 - _**GPU**_
   - *RADEON RX 580 GAMING X 8GB MSI*
+> [!NOTE]
+> *For more information about GPUs compatible with macOS see: [Native amd gpus](https://dortania.github.io/GPU-Buyers-Guide/modern-gpus/amd-gpu.html#native-amd-gpus)*
+
+##
 - _**Memory**_
   - *G.SKILL 2x16GB 32GB*
 - _**Network**_
