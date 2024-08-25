@@ -168,7 +168,7 @@ _**Setup**_
 
 *The* [*MIT License*](LICENSE.md) (*MIT*)
 
-*Copyright :copyright: 2023* 
+### Gilberto | Dev _2023_ 
 
 [Top](#ancora)
 
