@@ -44,7 +44,7 @@ _**Minha configuração**_
 > _Para mais informações sobre GPUs compatíveis com macOS, consulte: [Native amd gpus](https://dortania.github.io/GPU-Buyers-Guide/modern-gpus/amd-gpu.html#native-amd-gpus)_
 
 ##
-- _**Memory**_
+- _**Memória**_
   - *G.SKILL 2x16GB 32GB*
 - _**WI-FI / Bluetooth**_
   - *AC9560*
@@ -52,7 +52,7 @@ _**Minha configuração**_
 > _Para obter mais informações sobre placas Intel WiFi compatíveis, consulte: [OpenIntelWireless](https://openintelwireless.github.io/itlwm/Compat)_
 
 ##
-- _**Network**_
+- _**Rede**_
   - *Intel I219-V / I211* 
 
 <a name="ancora"></a>
