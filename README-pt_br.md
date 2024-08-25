@@ -1,4 +1,4 @@
-[Português Brasileiro](https://github.com/Gilberto-Mascena/Z390-DESIGNARE/blob/main/README-pt_br.md) | 
+[Português Brasileiro](https://github.com/Gilberto-Mascena/Z390-DESIGNARE/blob/main/README-pt_br.md) | [English](https://github.com/Gilberto-Mascena/Z390-DESIGNARE/blob/main/README.md)
 
 # *EFI OC Gigabyte Z390 DESIGNARE*
 
