@@ -157,6 +157,8 @@ _**Setup**_
 - [*Dortania*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#starting-point)
 - [*Dicas do Mateus*](https://www.youtube.com/c/DicasdoMateus)
 - [*Gabriel Luchina*](https://www.youtube.com/c/gabrielluchina)
+- [*itlwm*](https://github.com/OpenIntelWireless/itlwm)
+- [*khronokernel*](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases)
 - *And others*
 
 [Top](#ancora)
