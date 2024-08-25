@@ -1,5 +1,6 @@
-# *EFI OC Gigabyte Z390 DESIGNARE*
+[English](https://github.com/Gilberto-Mascena/Z390-DESIGNARE/blob/main/README.md) | [Português Brasileiro](https://github.com/Gilberto-Mascena/Z390-DESIGNARE/blob/main/README-pt_br.md)
 
+# *EFI OC Gigabyte Z390 DESIGNARE*
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/Z390-DESIGNARE)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Gilberto-Mascena/Z390-DESIGNARE/.github%2Fworkflows%2Fbuild.yml)
@@ -56,6 +57,7 @@ _**Setup**_
   - *Intel I219-V / I211* 
 
 <a name="ancora"></a>
+
 ## _Topic navigation_
 - [*What works*](#ancora1)
 - [*Screenshot*](#ancora2)
@@ -83,6 +85,7 @@ _**Setup**_
 </details>
 
 <a id="ancora2"></a>
+
 ## Screenshots
 
 ## *About this mac* 
@@ -149,6 +152,7 @@ _**Setup**_
 </details>
 
 <a id="ancora6"></a>
+
 ## *Thanks*
 
 - [*Acidanthera Team*](https://github.com/acidanthera)
@@ -164,6 +168,7 @@ _**Setup**_
 [Top](#ancora)
 
 <a id="ancora7"></a>
+
 ## *License* 
 
 *The* [*MIT License*](LICENSE.md) (*MIT*)
