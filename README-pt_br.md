@@ -122,7 +122,7 @@ _**Minha configuração**_
 
 <a id="ancora4"></a>
 
-<details><summary><h2>Recommended tools</h2></summary>
+<details><summary><h2>Ferramentas recomendadas</h2></summary>
 
 *  Recomendação 1
   * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), para gerar novos seriais para seu SMBIOS a fim de evitar conflitos com iServices*
