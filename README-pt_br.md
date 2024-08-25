@@ -1,5 +1,6 @@
-# *EFI OC Gigabyte Z390 DESIGNARE*
+[Português Brasileiro](https://github.com/Gilberto-Mascena/Z390-DESIGNARE/blob/main/README-pt_br.md) | 
 
+# *EFI OC Gigabyte Z390 DESIGNARE*
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/Z390-DESIGNARE)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Gilberto-Mascena/Z390-DESIGNARE/.github%2Fworkflows%2Fbuild.yml)
@@ -84,6 +85,7 @@ _**Minha configuração**_
 </details>
 
 <a id="ancora2"></a>
+
 ## Capturas de telas
  
 ![about this mac](./img/about.jpeg)
@@ -165,6 +167,7 @@ _**Minha configuração**_
 [Top](#ancora)
 
 <a id="ancora7"></a>
+
 ## *Licença* 
 
 *The* [*MIT Licença*](LICENSE.md) (*MIT*)
