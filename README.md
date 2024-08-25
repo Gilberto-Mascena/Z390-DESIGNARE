@@ -161,8 +161,6 @@ _**Setup**_
 
 [Top](#ancora)
 
----
-
 <a id="ancora7"></a>
 ## *License* 
 
