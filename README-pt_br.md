@@ -126,7 +126,7 @@ _**Minha configuração**_
 
 <details><summary><h2>Ferramentas recomendadas</h2></summary>
 
-*  Recomendação 1
+* Recomendação 1
   * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), para gerar novos seriais para seu SMBIOS a fim de evitar conflitos com iServices*
 * Recomendação 2
   * *Use [`ProperTree`](https://github.com/corpnewt/ProperTree), para editar seu config.plist*     
