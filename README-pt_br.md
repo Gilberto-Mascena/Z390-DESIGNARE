@@ -170,7 +170,7 @@ _**Minha configuração**_
 
 ## *Licença* 
 
-*The* [*MIT Licença*](LICENSE.md) (*MIT*)
+[*Licença MIT*](LICENSE.md) (*MIT*)
 
 ### Gilberto | Dev _2023_ 
 
