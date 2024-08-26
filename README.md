@@ -127,7 +127,7 @@ _**Setup**_
 
 <details><summary><h2>Recommended tools</h2></summary>
 
-*  Recommendation 1
+* Recommendation 1
   * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), to generate new serials for your SMBIOS in order to avoid conflicts with iServices.*
 * Recommendation 2
   * *Use [`ProperTree`](https://github.com/corpnewt/ProperTree), to edit your config.plist.*     
