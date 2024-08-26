@@ -81,7 +81,7 @@ _**Minha configuração**_
 - [x] *Thunderbolt (Não há suporte [hot swap](https://pt.wikipedia.org/wiki/Hot_swapping), serão feitos testes)*
 - [x] *Sleep*
 
-[Top](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora2"></a>
@@ -99,7 +99,7 @@ _**Minha configuração**_
 
 ![USB Mapping](./img/USBPorts.jpeg)
 
-[Top](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora3"></a>
@@ -119,7 +119,7 @@ _**Minha configuração**_
 - *[`IntelMausi.kext`](https://github.com/acidanthera/IntelMausi)*
 - *[`SmallTreeIntel82576.kext`](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases)*
 
-[Top](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora4"></a>
@@ -138,7 +138,7 @@ _**Minha configuração**_
 * Recomendação 5
   * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), para compilar seus patches SSDT no mac*
 
-[Top](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora5"></a>
@@ -147,7 +147,7 @@ _**Minha configuração**_
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings)
 
-[Top](#ancora)
+[Voltar](#ancora)
 </details>
 
 <a id="ancora6"></a>
@@ -164,7 +164,7 @@ _**Minha configuração**_
 - [*khronokernel*](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases)
 - *E outros*
 
-[Top](#ancora)
+[Voltar](#ancora)
 
 <a id="ancora7"></a>
 
@@ -174,6 +174,6 @@ _**Minha configuração**_
 
 ### Gilberto | Dev _2023_ 
 
-[Top](#ancora)
+[Voltar](#ancora)
 
 ---
