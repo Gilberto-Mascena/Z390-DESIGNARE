@@ -60,20 +60,20 @@ _**Setup**_
 - _**Network**_
   - *Intel I219-V / I211* 
 
-<a name="ancora"></a>
+<a name="anchor"></a>
 
 ## _Topic navigation_
-- [*What works*](#ancora1)
-- [*Screenshot*](#ancora2)
-- [*Kexts used, (all Releases)*](#ancora3)
-- [*Recommended tools*](#ancora4)
-- [*Intel BIOS Settings*](#ancora5)
-- [*Thanks*](#ancora6)
-- [*License* ](#ancora7)
+- [*What works*](#anchor1)
+- [*Screenshot*](#anchor2)
+- [*Kexts used, (all Releases)*](#anchor3)
+- [*Recommended tools*](#anchor4)
+- [*Intel BIOS Settings*](#anchor5)
+- [*Thanks*](#anchor6)
+- [*License* ](#anchor7)
 
 ---
 
-<a id="ancora1"></a>
+<a id="anchor1"></a>
 
 <details><summary><h2>What works</h2></summary>
 
@@ -85,10 +85,10 @@ _**Setup**_
 - [x] *Thunderbolt (No hot/swap support, testing will be done)*
 - [x] *Sleep*
 
-[Top](#ancora)
+[Top](#anchor)
 </details>
 
-<a id="ancora2"></a>
+<a id="anchor2"></a>
 
 ## Screenshots
 
@@ -104,10 +104,10 @@ _**Setup**_
 
 ![USB Mapping](./img/USBPorts.jpeg)
 
-[Top](#ancora)
+[Top](#anchor)
 </details>
 
-<a id="ancora3"></a>
+<a id="anchor3"></a>
 
 <details><summary><h2>Kexts used, (all Releases)</h2></summary>
 
@@ -124,10 +124,10 @@ _**Setup**_
 - *[`IntelMausi.kext`](https://github.com/acidanthera/IntelMausi)*
 - *[`SmallTreeIntel82576.kext`](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases)*
 
-[Top](#ancora)
+[Top](#anchor)
 </details>
 
-<a id="ancora4"></a>
+<a id="anchor4"></a>
 
 <details><summary><h2>Recommended tools</h2></summary>
 
@@ -143,19 +143,19 @@ _**Setup**_
 * Recommendation 5
   * *Use [`MaciASL`](https://github.com/acidanthera/MaciASL), to compile your SSDT patches on mac.*
 
-[Top](#ancora)
+[Top](#anchor)
 </details>
 
-<a id="ancora5"></a>
+<a id="anchor5"></a>
 
 <details><summary><h2>Intel BIOS Settings</h2></summary>
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings)
 
-[Top](#ancora)
+[Top](#anchor)
 </details>
 
-<a id="ancora6"></a>
+<a id="anchor6"></a>
 
 ## *Thanks*
 
@@ -169,9 +169,9 @@ _**Setup**_
 - [*khronokernel*](https://github.com/khronokernel/SmallTree-I211-AT-patch/releases)
 - *And others*
 
-[Top](#ancora)
+[Top](#anchor)
 
-<a id="ancora7"></a>
+<a id="anchor7"></a>
 
 ## *License* 
 
@@ -179,6 +179,6 @@ _**Setup**_
 
 ### Gilberto | Dev _2023_ 
 
-[Top](#ancora)
+[Top](#anchor)
 
 ---
