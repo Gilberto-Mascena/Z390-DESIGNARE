@@ -4,7 +4,7 @@
 <dict>
 	<key># Z390-Designare</key>
 	<string></string>
-	<key># OC 1.0.1 Rel</key>
+	<key># OC 1.0.2 Rel</key>
 	<string></string>
 	<key># By Gilberto Mascena</key>
 	<string></string>
@@ -1567,32 +1567,9 @@
 			<false/>
 		</dict>
 		<key>ReservedMemory</key>
-		<array>
-			<dict>
-				<key>Address</key>
-				<integer>268435456</integer>
-				<key>Comment</key>
-				<string>HD3000: IGPU memory corruption errata</string>
-				<key>Enabled</key>
-				<false/>
-				<key>Size</key>
-				<integer>268435456</integer>
-				<key>Type</key>
-				<string>Reserved</string>
-			</dict>
-			<dict>
-				<key>Address</key>
-				<integer>569344</integer>
-				<key>Comment</key>
-				<string>Fix black screen on wake from hibernation for Lenovo Thinkpad T490</string>
-				<key>Enabled</key>
-				<false/>
-				<key>Size</key>
-				<integer>4096</integer>
-				<key>Type</key>
-				<string>RuntimeCode</string>
-			</dict>
-		</array>
+		<array/>
+		<key>Unload</key>
+		<array/>
 	</dict>
 </dict>
 </plist>
