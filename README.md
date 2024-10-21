@@ -182,5 +182,3 @@ _**Setup**_
 ### Gilberto | Dev _2023_ 
 
 [Top](#anchor)
-
----
