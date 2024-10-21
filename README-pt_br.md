@@ -182,5 +182,3 @@ _**Minha configuração**_
 ### Gilberto | Dev _2023_ 
 
 [Voltar](#ancora)
-
----
