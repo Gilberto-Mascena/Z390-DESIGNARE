@@ -16,11 +16,12 @@
 ## *Sistemas operacionais*
 
 <div align="left">  
-  <img width="100" src="./img/macos-catalina-icon.png" alt="macOS Catalina icons"> 
-  <img width="100" src="./img/macos-big-sur-icon.png" alt="macOS Big Sur icons"> 
-  <img width="100" src="./img/macos-monterey-icon.png" alt="macOS Monterey icons">  
-  <img width="100" src="./img/macos-ventura-icon.png" alt="macOS Ventura icons">  
-  <img width="100" src="./img/macos-sonoma-icon.png" alt="macOS Sonoma icons">
+  <img width="100" src="./img/macos-catalina-icon.png" alt="macOS Catalina icon"> 
+  <img width="100" src="./img/macos-big-sur-icon.png" alt="macOS Big Sur icon"> 
+  <img width="100" src="./img/macos-monterey-icon.png" alt="macOS Monterey icon">  
+  <img width="100" src="./img/macos-ventura-icon.png" alt="macOS Ventura icon">  
+  <img width="100" src="./img/macos-sonoma-icon.png" alt="macOS Sonoma icon">
+  <img width="100" src="./img/macos-sequoia-icon.png" alt="macOS Sequoia icon">
 </div>
 
 <div>
