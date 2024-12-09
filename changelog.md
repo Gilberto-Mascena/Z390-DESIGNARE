@@ -3,7 +3,7 @@ _**Changes in this Version**_
 - _🎉 Updates in this release:_    
 
   - _Opencore_
-    - _Vesion 1.0.3_
+    - _Version 1.0.3_
 
   - _Kests_
     - _AppleALC 1.9.3_
