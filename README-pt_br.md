@@ -2,14 +2,14 @@
 
 # *EFI OC Gigabyte Z390 DESIGNARE*
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Gilberto-Mascena/Z390-DESIGNARE)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Gilberto-Mascena/Z390-DESIGNARE/.github%2Fworkflows%2Fbuild.yml)
-[![license](https://img.shields.io/github/license/Gilberto-Mascena/Z390-DESIGNARE)](https://github.com/Gilberto-Mascena/Z390-DESIGNARE/blob/main/LICENSE.md)
-[![GitHub stars](https://img.shields.io/github/stars/Gilberto-Mascena/Z390-DESIGNARE)](https://github.com/Gilberto-Mascena/Z390-DESIGNARE/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/Gilberto-Mascena/Z390-DESIGNARE)](https://github.com/Gilberto-Mascena/Z390-DESIGNARE/issues)
-[![tag](https://img.shields.io/github/v/release/Gilberto-Mascena/Z390-DESIGNARE?include_prereleases)](https://github.com/Gilberto-Mascena/Z390-DESIGNARE/releases)
-![release](https://img.shields.io/github/release-date/Gilberto-Mascena/Z390-DESIGNARE)
-![size](https://img.shields.io/github/repo-size/Gilberto-Mascena/Z390-DESIGNARE)
+![Status de Manutenção](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge)
+[![GitHub Actions Status](https://img.shields.io/github/actions/workflow/status/Gilberto-Mascena/Z390-DESIGNARE/build.yml?style=for-the-badge)](https://github.com/Gilberto-Mascena/Z390-DESIGNARE/actions)
+[![Licença](https://img.shields.io/github/license/Gilberto-Mascena/Z390-DESIGNARE?style=for-the-badge)](https://github.com/Gilberto-Mascena/Z390-DESIGNARE/blob/main/LICENSE.md)
+[![Estrelas no GitHub](https://img.shields.io/github/stars/Gilberto-Mascena/Z390-DESIGNARE?style=for-the-badge)](https://github.com/Gilberto-Mascena/Z390-DESIGNARE/stargazers)
+[![Problemas no GitHub](https://img.shields.io/github/issues/Gilberto-Mascena/Z390-DESIGNARE?style=for-the-badge)](https://github.com/Gilberto-Mascena/Z390-DESIGNARE/issues)
+[![Versão do Repositório](https://img.shields.io/github/v/release/Gilberto-Mascena/Z390-DESIGNARE?include_prereleases&style=for-the-badge)](https://github.com/Gilberto-Mascena/Z390-DESIGNARE/releases)
+![Data de Lançamento](https://img.shields.io/github/release-date/Gilberto-Mascena/Z390-DESIGNARE?style=for-the-badge)
+![Tamanho do Repositório](https://img.shields.io/github/repo-size/Gilberto-Mascena/Z390-DESIGNARE?style=for-the-badge)
 
 ---
 
