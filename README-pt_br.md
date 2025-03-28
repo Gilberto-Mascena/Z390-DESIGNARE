@@ -77,7 +77,7 @@ _**Minha configuração**_
 
 <a id="ancora1"></a>
 
-<details><summary><h2>O que funciona</h2></summary>
+<details><summary><h2>O que funciona 👀</h2></summary>
 
 - [x] *Audio*
 - [x] *Rede (ambas as portas)*
@@ -96,12 +96,12 @@ _**Minha configuração**_
  
 ![about this mac](./img/about.jpeg)
 
-<details><summary><h2>Versão de BIOS</h2></summary>
+<details><summary><h2>Versão de BIOS 👀</h2></summary>
 
 ![Bios](./img/Bios.jpeg)
 </details>
 
-<details><summary><h2>Mapeamento de portas USB</h2></summary>
+<details><summary><h2>Mapeamento de portas USB 👀</h2></summary>
 
 ![USB Mapping](./img/USBPorts.jpeg)
 
@@ -110,7 +110,7 @@ _**Minha configuração**_
 
 <a id="ancora3"></a>
 
-<details><summary><h2>Kexts usados, (todas releases)</h2></summary>
+<details><summary><h2>Kexts usados, (todas releases) 👀</h2></summary>
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
@@ -130,7 +130,7 @@ _**Minha configuração**_
 
 <a id="ancora4"></a>
 
-<details><summary><h2>Ferramentas recomendadas</h2></summary>
+<details><summary><h2>Ferramentas recomendadas 👀</h2></summary>
 
 * Recomendação 1
   * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), para gerar novos seriais para seu SMBIOS a fim de evitar conflitos com iServices*
@@ -149,14 +149,14 @@ _**Minha configuração**_
 
 <a id="ancora5"></a>
 
-<details><summary><h2>Configuração de BIOS Intel</h2></summary>
+<details><summary><h2>Configuração de BIOS Intel 👀</h2></summary>
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings)
 
 [Voltar](#ancora)
 </details>
 
-## [_Criando o instalador do macOS no Windows ou Linux_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac)
+## 👉 [_Criando o instalador do macOS no Windows ou Linux_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac)
 
 <a id="ancora6"></a>
 

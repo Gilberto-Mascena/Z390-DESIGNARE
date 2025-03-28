@@ -76,7 +76,7 @@ _**Setup**_
 
 <a id="anchor1"></a>
 
-<details><summary><h2>What works</h2></summary>
+<details><summary><h2>What works 👀</h2></summary>
 
 - [x] *Sound*
 - [x] *Network (both network ports)*
@@ -96,12 +96,12 @@ _**Setup**_
 ## *About this mac* 
 ![about this mac](./img/about.jpeg)
 
-<details><summary><h2>BIOS version</h2></summary>
+<details><summary><h2>BIOS version 👀</h2></summary>
 
 ![Bios](./img/Bios.jpeg)
 </details>
 
-<details><summary><h2>USB port mapping</h2></summary>
+<details><summary><h2>USB port mapping 👀</h2></summary>
 
 ![USB Mapping](./img/USBPorts.jpeg)
 
@@ -110,7 +110,7 @@ _**Setup**_
 
 <a id="anchor3"></a>
 
-<details><summary><h2>Kexts used, (all Releases)</h2></summary>
+<details><summary><h2>Kexts used, (all Releases) 👀</h2></summary>
 
 - *[`WhateverGreen.kext`](https://github.com/acidanthera/WhateverGreen)*
 - *[`Lilu.kext`](https://github.com/acidanthera/Lilu)*
@@ -130,7 +130,7 @@ _**Setup**_
 
 <a id="anchor4"></a>
 
-<details><summary><h2>Recommended tools</h2></summary>
+<details><summary><h2>Recommended tools 👀</h2></summary>
 
 * Recommendation 1
   * *Use [`GenSMBIOS`](https://github.com/corpnewt/GenSMBIOS), to generate new serials for your SMBIOS in order to avoid conflicts with iServices.*
@@ -149,14 +149,14 @@ _**Setup**_
 
 <a id="anchor5"></a>
 
-<details><summary><h2>Intel BIOS Settings</h2></summary>
+<details><summary><h2>Intel BIOS Settings 👀</h2></summary>
 
 - [*OpenCore Install Guide*](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#intel-bios-settings)
 
 [Top](#anchor)
 </details>
 
-## [_Creating macOS Installer on Windows or Linux_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac)
+## 👉 [_Creating macOS Installer on Windows or Linux_](https://github.com/Gilberto-Mascena/How-to-create-a-macOS-installer-without-a-Mac)
 
 <a id="anchor6"></a>
 
